@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## **HR-ASSIST Agentic AI System**
 ---
 HR ASSIST is an Agentic AI system designed to help HR teams automate routine workflows. This example demonstrates automation of the employee onboarding process, streamlining tasks that typically require manual intervention.
@@ -37,3 +38,6 @@ Add the following configuration to your claude_desktop_config.json file:
 
 
 All rights reserver @Codebasics Inc and LearnerX India Private Ltd.
+=======
+# MCP_HR_Assist
+>>>>>>> 5c4bc68f150b11a29c382ba6b1f0c22adb4fc94f
